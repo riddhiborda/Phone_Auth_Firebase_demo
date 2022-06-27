@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "764665509617",
+    "project_id": "fir-crashalytics-8aecf",
+    "storage_bucket": "fir-crashalytics-8aecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764665509617:android:39569b4b827f6610b8db50",
+        "android_client_info": {
+          "package_name": "com.example.mydemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764665509617-8vr2ksqegtmgvtru7t14470vve69m010.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWvkVkyh3ro3Nc8A9FSFe5iz6YWU_bCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764665509617-8vr2ksqegtmgvtru7t14470vve69m010.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764665509617:android:07c730b103dbf321b8db50",
+        "android_client_info": {
+          "package_name": "com.example.mykotlinproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764665509617-a4906idlfuh4dif4bdu92278vkjo44ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mykotlinproject",
+            "certificate_hash": "002699282b222640127d94b0db75a6fff595f906"
+          }
+        },
+        {
+          "client_id": "764665509617-8vr2ksqegtmgvtru7t14470vve69m010.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWvkVkyh3ro3Nc8A9FSFe5iz6YWU_bCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764665509617-8vr2ksqegtmgvtru7t14470vve69m010.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
